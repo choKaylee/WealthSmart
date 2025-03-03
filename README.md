@@ -1,6 +1,6 @@
 ## Sample Input Data (JSON Format)
 
-Below is the sample input data in JSON format, representing different users' investment preferences, risk tolerance, and product preferences.
+Below is the sample input data in JSON format, representing different users' investment goals, risk tolerance, product preferences, and more.
 
 ```json
 [
