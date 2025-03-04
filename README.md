@@ -34,7 +34,6 @@ Below is the sample input data in JSON format, representing different users' inv
         "holding_period": 15,
         "return_score": 15,
         "product_preference": 15,
-        "allocation_strength": 10
       }
     },
     {
@@ -67,7 +66,6 @@ Below is the sample input data in JSON format, representing different users' inv
         "holding_period": 20,
         "return_score": 10,
         "product_preference": 10,
-        "allocation_strength": 10
       }
     },
     {
@@ -100,7 +98,6 @@ Below is the sample input data in JSON format, representing different users' inv
         "holding_period": 15,
         "return_score": 20,
         "product_preference": 10,
-        "allocation_strength": 10
       }
     }
 ]
