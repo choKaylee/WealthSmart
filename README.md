@@ -126,3 +126,5 @@ Below is the sample input data in JSON format, representing different users' inv
       }
     }
 ]
+
+![Alt text](WealthSmart.png)
