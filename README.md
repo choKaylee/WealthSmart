@@ -1,3 +1,28 @@
+# WealthSmart: Personalized Financial Portfolio Recommendation App
+
+## Overview
+Our investment recommender system, WealthSmart, is designed to help users explore and discover financial products—stocks, ETFs, and bonds—based on their investment preferences and styles. Unlike auto-trading platforms, we do not make decisions for users; instead, we provide curated recommendations to expand their knowledge and help them make informed choices.
+
+## Purpose and Intentions
+Many investors, especially newcomers, may not be fully aware of the vast array of investment opportunities available. They may struggle to understand why certain sectors or products are gaining traction among others with similar financial goals.
+
+Our system is built to bridge this gap by answering key questions:
+- **What are investors with similar styles and risk tolerances exploring?**
+- **Which investments have they found to be valuable or satisfying?**
+- **How can users discover new sectors or products that align with their goals?**
+
+Much like how Spotify’s “Discover Weekly” introduces users to new music based on their listening habits, our system introduces users to investments they might find interesting based on the habits of similar investors. This approach sparks curiosity, encourages diversification, and fosters a deeper understanding of financial markets.
+
+## How It Works
+We utilize **User-Based Collaborative Filtering**, which identifies investors with similar preferences and recommends financial products that have been positively received by those with comparable investment behaviors. This method helps users uncover new opportunities they might not have considered, empowering them to broaden their investment strategies.
+
+## User Responsibility
+WealthSmart does **not** promise the highest returns or dictate financial decisions. Instead, it serves as a tool for discovery and learning. Since long-term portfolio performance depends on multiple factors—including market trends, holding periods, and company performance—users must conduct their own research, assess value and risks, and make independent investment choices.
+
+## Conclusion
+Our goal is simple: **help users explore more, learn more, and invest smarter.** By introducing them to sectors and products that align with their investment style, we provide a gateway to better decision-making and a broader financial perspective.
+
+
 ## Sample Input Data (JSON Format)
 
 Below is the sample input data in JSON format, representing different users' investment goals, risk tolerance, product preferences, and more.
