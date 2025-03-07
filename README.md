@@ -22,6 +22,10 @@ WealthSmart does **not** promise the highest returns or dictate financial decisi
 ## Conclusion
 Our goal is simple: **help users explore more, learn more, and invest smarter.** By introducing them to sectors and products that align with their investment style, we provide a gateway to better decision-making and a broader financial perspective.
 
+## 📌 Project Documentation
+
+📖 Read the full methodology on **Notion**:  
+👉 [Building a Personalized Investment Recommender System](https://kayleecho.notion.site/Building-a-Personalized-Investment-Recommender-System-Methods-and-Approach-1af19e5308e180bf8c9ae6adcccff307?pvs=4)
 
 ## Sample Input Data (JSON Format)
 
