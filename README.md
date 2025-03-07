@@ -122,9 +122,9 @@ Below is the sample input data in JSON format, representing different users' inv
         "risk_tolerance": 25,
         "holding_period": 15,
         "return_score": 20,
-        "product_preference": 10,
+        "product_preference": 10
       }
     }
 ]
-
+```
 ![Alt text](WealthSmart.png)
