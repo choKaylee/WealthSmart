@@ -27,9 +27,11 @@ Our goal is simple: **help users explore more, learn more, and invest smarter.**
 📖 Read the full methodology on **Notion**:  
 👉 [Building a Personalized Investment Recommender System](https://kayleecho.notion.site/Building-a-Personalized-Investment-Recommender-System-Methods-and-Approach-1af19e5308e180bf8c9ae6adcccff307?pvs=4)
 
-## Sample Input Data (JSON Format)
+📄 View the regularly updated case study document:
+👉 [Case Study & Ideation]
+(https://docs.google.com/document/d/1zeiNiwFU4kSNfmE-nxlwG8n7TM3ENcdJbuHo4zJD8ck/edit?usp=sharing)
 
-Below is the sample input data in JSON format, representing different users' investment goals, risk tolerance, product preferences, and more.
+## Sample Input Data (JSON Format)
 
 ```json
 [
