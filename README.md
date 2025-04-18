@@ -1,5 +1,5 @@
 # WealthSmart: Personalized Financial Portfolio Recommendation App
-![Alt text](WealthSmart.png)
+![Alt text](design/WealthSmart.png)
 ## Overview
 Our investment recommender system, WealthSmart, is designed to help users explore and discover financial products—stocks, ETFs, and bonds—based on their investment preferences and styles. Unlike auto-trading platforms, we do not make decisions for users; instead, we provide curated recommendations to expand their knowledge and help them make informed choices.
 
